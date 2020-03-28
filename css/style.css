@@ -64,3 +64,20 @@
   background-color: #C86FC9;
   color: #000000
 }
+.fusha{
+  position: absolute;
+  top:165px;
+  left:0px;
+  width: 2000px;
+  height:20px;
+}
+#carouselExampleCaptions{
+  position: absolute;
+  top:195px;
+  left:160px;
+  width:1600px;
+}
+.stock{
+  height: 720px;
+
+}
