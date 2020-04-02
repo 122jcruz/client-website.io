@@ -93,7 +93,7 @@
   top:980px;
   left:630px;
 }
-h1{
+.meap{
   font-size: 20px;
   width: 700px;
   position:absolute;
@@ -120,12 +120,42 @@ h1{
 }
 .fl{
   position: absolute;
-  top:2000px;
-  left: 300px;
+  top:2010px;
+  left: 200px;
   height: 500px;
 }
 .boxy{
   position: absolute;
-  top:2000px;
-  left: 300px;
+  top:1970px;
+  left: 165px;
+  width: 400px;
+  height: 540px;
+  border-radius:0px;
+  border-width: thin;
+}
+.fla{
+  position: absolute;
+  top:2010px;
+  left: 800px;
+  height: 500px;
+}
+.m{
+  width: 360px;
+}
+.boxie{
+  position: absolute;
+  top:1970px;
+  left: 770px;
+  width: 400px;
+  height: 540px;
+  border-radius:0px;
+  border-width: thin;
+}
+.moop{
+  position: absolute;
+  top:2200px;
+  left:800px;
+  font-size: 800px;
+  font-family: 'Cookie', cursive;
+  font-size: 800px;
 }
